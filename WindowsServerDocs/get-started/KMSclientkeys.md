@@ -207,7 +207,7 @@ Windows Server、Windows 10、Windows 8.1、Windows Server 2012 R2、Windows 8�
 | Windows 7 Enterprise E                           | C29WB-22CC8-VJ326-GHFJW-H9DH4 |
 
 
-「
+関連項目
 
 • [ボリューム ライセンス認証の計画](https://technet.microsoft.com/library/jj134042(v=ws.11).aspx)
 
